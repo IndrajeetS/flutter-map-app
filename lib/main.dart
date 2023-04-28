@@ -16,8 +16,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(
         platform: TargetPlatform.fuchsia,
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.black,
+        colorScheme: ColorScheme.fromSwatch(
+          primarySwatch: Colors.teal,
         ),
       ),
       home: const MapsPage(),

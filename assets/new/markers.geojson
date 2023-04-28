@@ -11,64 +11,97 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Vip road\n"
+                "Name": "Vip road",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6848321,
-                    21.2296098
+                    81.684832,
+                    21.22961
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "BSS Pranavananda Academy\n"
+                "Name": "BSS Pranavananda Academy",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6841776,
-                    21.2292898
+                    81.684178,
+                    21.22929
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "DR SACHINS YASHODA CLINIC\n"
+                "Name": "DR SACHINS YASHODA CLINIC",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6841776,
-                    21.2307497
+                    81.684178,
+                    21.23075
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Shukla's Kitchen\n"
+                "Name": "The Grand Neelam (TGN SUITS)\n",
+                "description": "11, VIP Rd, Vishal Nagar, Raipur, Chhattisgarh 492007"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6864092,
-                    21.2307897
+                    81.685368,
+                    21.2301762
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Mocha\n"
+                "Name": "Green Wood Four Seasons\n",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6867633,
+                    81.6854862,
+                    21.230227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shukla's Kitchen\n",
+                "description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6864049,
+                    21.2306183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mocha",
+                "description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.686763,
                     21.23166
                 ]
             }
@@ -76,51 +109,55 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gursukh Villa\n"
+                "Name": "Gursukh Villa",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6842635,
-                    21.2314097
+                    81.684264,
+                    21.23141
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Xtreme Sports Bar\n"
+                "Name": "Xtreme Sports Bar",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6829919,
-                    21.2313675
+                    81.682992,
+                    21.231368
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Capital O Shagun Farms\n"
+                "Name": "Capital O Shagun Farms",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6833728,
-                    21.2313575
+                    81.683373,
+                    21.231358
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Grand Imperia hotel\n"
+                "Name": "Grand Imperia hotel",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6827829,
+                    81.682783,
                     21.23244
                 ]
             }
@@ -128,65 +165,56 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "INDRA POWER GEN PVT LTD\n"
+                "Name": "Ishita Paradise\n",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6825553,
-                    21.2318279
+                    81.6803631,
+                    21.2320894
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ishita Paradise\n"
+                "Name": "ANKIT BOUNDRY WALL\n",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6803774,
-                    21.2320979
+                    81.6805777,
+                    21.2315094
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "ANKIT BOUNDRY WALL\n"
+                "Name": "Avinash Elegance\n",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6805672,
-                    21.2315444
+                    81.6810176,
+                    21.2307688
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Name": "Avinash Elegance\n"
+                "Name": "Pind Balluchi Raipur\n",
+                "description": null
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.6810526,
-                    21.2307018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Pind Balluchi Raipur\n"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    81.6817744,
-                    21.2297996
+                    81.681782,
+                    21.2296519
                 ]
             }
         }

@@ -188,10 +188,11 @@ class _MapViewWidgetState extends State<MapViewWidget> {
           final List<dynamic> coordinates = feature['geometry']['coordinates'];
           final latLngs = LatLng(coordinates[1], coordinates[0]);
           final marker = Marker(
-            markerId: MarkerId("${feature['properties']['Name']}"),
+            markerId: MarkerId(feature['properties']['Name']),
             position: latLngs,
             infoWindow: InfoWindow(
-              title: "${feature['properties']['Name']}",
+              title: feature['properties']['Name'],
+              snippet: feature['properties']['description'],
             ),
           );
           markers.add(marker);

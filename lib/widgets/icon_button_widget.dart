@@ -5,7 +5,12 @@ class IconButtonWidget extends StatelessWidget {
   final void Function()? onPressed;
   final String? tooltip;
 
-  const IconButtonWidget({super.key, this.icon, this.onPressed, this.tooltip});
+  const IconButtonWidget({
+    super.key,
+    this.icon,
+    this.onPressed,
+    this.tooltip,
+  });
 
   @override
   Widget build(BuildContext context) {
