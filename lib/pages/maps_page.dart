@@ -1,27 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map_app/widgets/map_view_widget.dart';
 
-class MapsPage extends StatefulWidget {
+class MapsPage extends StatelessWidget {
   const MapsPage({Key? key}) : super(key: key);
 
   @override
-  State<MapsPage> createState() => MapsPageState();
-}
-
-class MapsPageState extends State<MapsPage> {
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: buildAppbar(),
+      appBar: AppBar(title: const Text("Maps"), centerTitle: true),
       body: MapViewWidget(),
-    );
-  }
-
-  // Extract Appbar as method
-  buildAppbar() {
-    return AppBar(
-      title: const Text("Maps"),
-      centerTitle: true,
     );
   }
 }
